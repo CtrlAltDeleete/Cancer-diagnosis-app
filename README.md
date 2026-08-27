@@ -1,6 +1,6 @@
-# My Project
+# Cancer Diagnosis project
 
-Brief description of what this project does.
+This is a Cancer classification + Segmentation app that can perform the mentioned tasks based upon relevant Image of site uploaded by user
 
 ## Downloading This Project
 
