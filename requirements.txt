@@ -1,0 +1,9 @@
+numpy
+torch
+torchvision
+timm
+segmentation-models-pytorch
+albumentations
+opencv-python-headless
+pillow
+streamlit

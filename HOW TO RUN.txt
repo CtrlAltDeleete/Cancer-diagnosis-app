@@ -1,0 +1,4 @@
+1-- install python so you can use the (pip) command
+2-- type powershell in the folder address bar of this folder so that a powershell window opens with a address automatically in this folder
+3-- type the command that is inside the parenthesis , into powershell : (pip install -r requirements.txt)
+4-- after that finishes , type this (streamlit run app.py) while still in powershell to run the website (if it dosent automcatically open in your web browser ,  then go to http://localhost:8501 in the your web browser manually and the website should open)
