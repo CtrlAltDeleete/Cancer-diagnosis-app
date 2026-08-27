@@ -7,6 +7,7 @@ This is a Cancer classification + Segmentation app that can perform the mentione
 **USING DOCKER (no dependency install required):**
 
 1-- Pull this docker image (docker pull dani2569/cancer-app:v1.0)
+
 2-- Press play button to run in container , type 8501 in Host Port , then once its running press the local URL link that shows up and website should open in web browser
 
 **USING GITHUB:**
