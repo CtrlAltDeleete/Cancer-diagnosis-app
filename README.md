@@ -8,9 +8,11 @@ This is a Cancer classification + Segmentation app that can perform the mentione
 
 **Correct way:**
 
-1-- Download Git LFS from (https://git-lfs.com/)
+1-- Download and install Git LFS from (https://git-lfs.com/)
 
 2-- Run these commands : 
 ```bash
 git lfs install
 git clone https://github.com/CtrlAltDeleete/Cancer-diagnosis-app.git
+
+3-- Instructions on how to run website are included in (HOW TO RUN.txt)
