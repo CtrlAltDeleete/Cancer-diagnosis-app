@@ -14,5 +14,6 @@ This is a Cancer classification + Segmentation app that can perform the mentione
 ```bash
 git lfs install
 git clone https://github.com/CtrlAltDeleete/Cancer-diagnosis-app.git
+```bash
 
 3-- Instructions on how to run website are included in (HOW TO RUN.txt)
