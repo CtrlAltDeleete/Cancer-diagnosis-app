@@ -4,7 +4,7 @@ This is a Cancer classification + Segmentation app that can perform the mentione
 
 ## Running This Project
 
-**USING DOCKER (no dependency install recquired):**
+**USING DOCKER (no dependency install required):**
 
 1-- Pull this docker image and run in container (docker pull dani2569/cancer-app:v1.0)
 
